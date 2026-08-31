@@ -1,7 +1,5 @@
 # Evidence-Guided Detector-Localizer-Reasoner System
 
-Code for the detector-localizer-reasoner pipeline in `MM26_GenText_v6.pdf`.
-
 ## Modules
 
 ```text
