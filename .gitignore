@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.log
+.ipynb_checkpoints/
+
+# Local environments
+.env
+*.env
+!*.env.example
+
+# Root-level local data, outputs, and experiment artifacts
+/data/
+/outputs/
+/runs/
+/logs/
+/wandb/
+
+# Model weights and checkpoints
+*.bin
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+checkpoint/
+checkpoints/**/pytorch_model.bin
+checkpoints/**/optimizer.pt
+checkpoints/**/scheduler.pt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

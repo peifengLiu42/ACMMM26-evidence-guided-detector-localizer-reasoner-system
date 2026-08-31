@@ -1,0 +1,12 @@
+torch
+transformers
+peft
+llamafactory
+accelerate
+safetensors
+vllm
+Pillow
+opencv-python
+numpy
+tqdm
+PyYAML

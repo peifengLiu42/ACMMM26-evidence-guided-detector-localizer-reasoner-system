@@ -1,0 +1,33 @@
+[
+  {
+    "images": [
+      "data/train/images/part001/example_authentic.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please determine whether this document image is authentic or forged."
+      },
+      {
+        "from": "gpt",
+        "value": "[CONCLUSION]: AUTHENTIC"
+      }
+    ]
+  },
+  {
+    "images": [
+      "data/train/images/part001/example_forged.png",
+      "data/train/masks/part001/example_forged_mask.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please determine whether this document image is authentic or forged."
+      },
+      {
+        "from": "gpt",
+        "value": "[CONCLUSION]: FORGED"
+      }
+    ]
+  }
+]

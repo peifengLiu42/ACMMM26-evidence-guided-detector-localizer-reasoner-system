@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+outputs/
+logs/
+*.log
+
+# Keep tiny reference files if needed, but do not upload private/generated data.
+data/*.pk
+!data/qt_table.pk
+
+weights/*.pth
+weights/*.pt
+weights/*.ckpt
+weights/*.safetensors
+
+configs/realtext_paths.env

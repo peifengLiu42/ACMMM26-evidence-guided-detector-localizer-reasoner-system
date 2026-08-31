@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+
+# Local data and outputs
+data/
+runs/
+outputs/
+logs/
+
+# Large model files. Use Git LFS or GitHub Releases if you want to publish them.
+checkpoint/
+checkpoints/**/pytorch_model.bin
+checkpoints/**/optimizer.pt
+checkpoints/**/scheduler.pt
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Local config copies
+configs/*.env
+!configs/*.env.example

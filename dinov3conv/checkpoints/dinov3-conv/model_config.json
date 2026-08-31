@@ -1,0 +1,12 @@
+{
+  "dino_model_path": "checkpoint/dinov3-vitb16-pretrain-lvd1689m",
+  "image_size": 1024,
+  "image_height": 896,
+  "image_width": 1344,
+  "decoder_dim": 256,
+  "dropout": 0.1,
+  "mask_head_type": "conv",
+  "freeze_dino": false,
+  "unfreeze_last_n_layers": -1,
+  "trust_remote_code": true
+}
