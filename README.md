@@ -41,3 +41,4 @@ We thank the authors of DocTamper, RTM, and SparseViT:
 - DocTamper: https://github.com/qcf-568/DocTamper
 - RTM: https://github.com/DrLuo/RTM
 - SparseViT: https://github.com/scu-zjz/SparseViT
+- Qwen3-VL: we acknowledge the Qwen3-VL work and its contribution to multimodal reasoning, which provides the foundation for our reasoner.
