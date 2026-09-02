@@ -36,9 +36,10 @@ Generate their prediction maps with the original repositories.
 
 ## Acknowledgements
 
-We thank the authors of DocTamper, RTM, and SparseViT:
+We thank the following projects for their valuable contributions:
 
 - DocTamper: https://github.com/qcf-568/DocTamper
 - RTM: https://github.com/DrLuo/RTM
 - SparseViT: https://github.com/scu-zjz/SparseViT
-- Qwen3-VL: we acknowledge the Qwen3-VL work and its contribution to multimodal reasoning, which provides the foundation for our reasoner.
+- DINOv3: https://github.com/facebookresearch/dinov3
+- Qwen3-VL: https://github.com/QwenLM/Qwen3-VL
