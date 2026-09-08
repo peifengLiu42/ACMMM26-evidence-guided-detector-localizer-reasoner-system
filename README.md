@@ -1,5 +1,11 @@
 # Evidence-Guided Detector-Localizer-Reasoner System
 
+## TODO
+
+- [x] 2026.09: Upload the arXiv paper (https://arxiv.org/abs/2609.02097).
+- [x] 2026.09: Upload the training code.
+- [ ] 2026.10: Upload the weights.
+
 ## Modules
 
 ```text
